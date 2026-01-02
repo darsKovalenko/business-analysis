@@ -1,4 +1,4 @@
-#Laboratory work on the course of business analysis
+# Laboratory work on the course of business analysis
 
 This repository is created for my university business analysis tasks. Links to the labs in Google Docs:
 
