@@ -1,3 +1,5 @@
+#Laboratory work on the course of business analysis
+
 This repository is created for my university business analysis tasks. Links to the labs in Google Docs:
 
 [Specifications for a simple application](https://docs.google.com/document/d/1SG6JtWCD66MaqvXe2ZXvt30i-zax-_tiIVW1Rp0RbpA/edit?usp=sharing)
